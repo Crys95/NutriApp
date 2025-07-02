@@ -17,8 +17,8 @@ Adicionei persistência dos dados com localStorage.
 
 Incluí máscara de telefone no formato brasileiro.
 
-🧩 2. Organização em Hook (usePacientes)
-Separei a lógica de manipulação dos pacientes em um hook personalizado (usePacientes.js), tornando o componente mais limpo e reutilizável.
+🧩 2. Organização em Hook (UseListaPacientes)
+Separei a lógica de manipulação dos pacientes em um hook personalizado (UseListaPacientes.js), tornando o componente mais limpo e reutilizável.
 
 🧍‍♂️ 3. Tela de Detalhes do Paciente
 Ao clicar em um paciente, abro uma tela de detalhes que mostra:
